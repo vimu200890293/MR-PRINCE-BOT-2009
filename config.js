@@ -12,14 +12,14 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["94723025971", "Prince vimu", false],
+  ["94723025971", "Mr Prince vimu", false],
   [''], 
   [''] 
 ]
 //💌------------------------------------------💌
 
 
-//💌global.pairingNumber = "" //put your bot number here💌
+//💌global.pairingNumber = "Mr prince vimu" //put your bot number here💌
 global.mods = ['923042205427'] 
 global.prems = ['']
 global.allowed = ['']
